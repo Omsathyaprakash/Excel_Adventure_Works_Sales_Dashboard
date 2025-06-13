@@ -17,10 +17,7 @@ This project features a dynamic and interactive **Excel dashboard** developed to
 ### 🔍 Detail Analysis Dashboard:
 - **Top 5 Profitable Products & Customers**
 - **Profit Analysis**: Product Colors, Expensive vs. Less Expensive Categories
-- **Customer Demographics**:
-  - Average Age
-  - Gender-based Profit Distribution
-  - Age Group Contribution
+- **Customer Demographics**:Average Age,Gender-based Profit Distribution,Age Group Contribution
 - **Sales Geography**: Profit by Country (Map Visual)
 - **Product Insights**: Total Products, Sold vs. Unsold
 - **Dynamic Filters**: Year, Region
