@@ -30,7 +30,6 @@ This project features a dynamic and interactive **Excel dashboard** developed to
 ## 🛠️ Key Excel Techniques Used
 
 ### 1. Power Query for Data Cleaning
-- Removed duplicates
 - Deleted unnecessary columns
 - Merged and transformed columns
 - Added custom and conditional columns
