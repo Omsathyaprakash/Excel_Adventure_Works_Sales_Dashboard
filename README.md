@@ -5,9 +5,9 @@ This project features a dynamic and interactive **Excel dashboard** developed to
 ---
 
 ## 📊 Dashboards Overview
+### 🕒 Time Analysis Dashboard:
 ![time series dashboard](https://github.com/user-attachments/assets/2b573f0c-367d-497c-827c-9ef48bebe70f)
 
-### 🕒 Time Analysis Dashboard:
 - **Key Metrics**: Total Quantity, Revenue, Cost, Transactions, and Profit
 - **YOY Growth %** and **Monthly Profit Trends**
 - **Year-wise Comparison**: Revenue, Profit, Transactions
@@ -15,9 +15,9 @@ This project features a dynamic and interactive **Excel dashboard** developed to
 - **Quarterly & Weekday Profit Distribution**
 - **Interactive Filters**: Year, Month, Country
 
+### 🔍 Detail Analysis Dashboard:
 ![detail dashboard](https://github.com/user-attachments/assets/9c5c49c7-699e-4e83-8012-15e47bb93e5e)
 
-### 🔍 Detail Analysis Dashboard:
 - **Top 5 Profitable Products & Customers**
 - **Profit Analysis**: Product Colors, Expensive vs. Less Expensive Categories
 - **Customer Demographics**:Average Age,Gender-based Profit Distribution,Age Group Contribution
