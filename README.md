@@ -48,6 +48,8 @@ This project features a dynamic and interactive **Excel dashboard** developed to
   - Profit Margin %
 
 ### 4. Data Model Design
+![schema](https://github.com/user-attachments/assets/9ba244b6-ca5c-419e-90fa-e18f82198be5)
+
 - Built a **star schema** in Power Pivot:
   - Central FactInternetSales table
   - Linked to dimension tables: Date, Product, Customer, Geography, Sales Territory
