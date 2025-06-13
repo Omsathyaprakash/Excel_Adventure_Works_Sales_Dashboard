@@ -66,10 +66,9 @@ This project features a dynamic and interactive **Excel dashboard** developed to
 ---
 
 ## 📁 Files Included
-- `AdventureWorks_ExcelDashboard.xlsx` – Complete dashboard file
-- `project.csv` – Cleaned dataset
+- `adventure works sales dashboard.xlsm` – Complete dashboard file
+- `AdventureWorks_dataset.xlsx` – dataset
 - `README.md` – This documentation
-- `Akhil_SQL_Income.pdf` – Project write-up (if relevant)
 
 ---
 
@@ -86,9 +85,8 @@ This project strengthened my expertise in:
 
 If you're passionate about data analytics, Excel BI, or business intelligence, feel free to connect!
 
-📧 [Email](mailto:your.email@example.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-📂 [Portfolio](https://your-portfolio-link.com)
+📧 [Email](mailto:sathyaprakashkotte22@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bsvwkv5B5T5GkGvBXct8rsA%3D%3D)  
 
 ---
 
