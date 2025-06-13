@@ -86,7 +86,7 @@ This project strengthened my expertise in:
 If you're passionate about data analytics, Excel BI, or business intelligence, feel free to connect!
 
 📧 [Email](mailto:sathyaprakashkotte22@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bsvwkv5B5T5GkGvBXct8rsA%3D%3D)  
+💼 [LinkedIn](omsathyaprakash-kotte-96a68020b)  
 
 ---
 
